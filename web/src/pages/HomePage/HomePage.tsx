@@ -6,8 +6,8 @@ const HomePage = () => {
     <>
       <Metadata title="Home" description="Home page" />
 
-      <main className="bg">
-        <h1>Hello world!!</h1>
+      <main>
+        <h1>Hello next</h1>
       </main>
     </>
   )
